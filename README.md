@@ -19,7 +19,6 @@ Repositori ini berisi kumpulan latihan (*exercise*) mata kuliah **Pemrograman Be
 - [Exercise 2 — Array of Objects](#exercise-2--array-of-objects)
 - [Exercise 3 — Association Antar-Kelas](#exercise-3--association-antar-kelas)
 - [Exercise 4 — Inheritance & Polymorphism](#exercise-4--inheritance--polymorphism)
-- [Ringkasan Konsep OOP](#ringkasan-konsep-oop)
 
 ---
 
@@ -221,21 +220,10 @@ Setiap `Customer` memiliki atribut `account` bertipe `Bank` yang berfungsi sebag
 - Objek `Bank` **utama** (di `BankDemo`) → menampung array `Customer[]`.
 - Objek `Bank` **per customer** → menyimpan `balance` (saldo) masing-masing, dibuat melalui `new Bank(saldoAwal)`.
 
-### Visualisasi Penggunaan Array
+### Visualisasi Alur Penggunaan Array
 
-1. Input Nama Depan dan Nama Belakang, dan Menampilkan Semua Customer
+![Visualisasi Array Exercise 2](./assets/exercise2-array.png)
 
-![Visualisasi Array Exercise 2](./Picture/image1.png)
-
-2. Deposit dan Withdraw
-
-![Visualisasi Array Exercise 2](./Picture/image2.png)
-
-![Visualisasi Array Exercise 2](./Picture/image3.png)
-
-4. Cek Saldo
-
-![Visualisasi Array Exercise 2](./Picture/image4.png)
 ### Fitur Menu
 
 | No | Menu | Keterangan |
