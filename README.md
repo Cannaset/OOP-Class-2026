@@ -222,7 +222,19 @@ Setiap `Customer` memiliki atribut `account` bertipe `Bank` yang berfungsi sebag
 
 ### Visualisasi Alur Penggunaan Array
 
-![Visualisasi Array Exercise 2](./assets/exercise2-array.png)
+1. Input Nama Depan dan Nama Belakang, dan Menampilkan Semua Customer
+
+![Visualisasi Array Exercise 2](./Picture/image1.png)
+
+2. Deposit dan Withdraw
+
+![Visualisasi Array Exercise 2](./Picture/image2.png)
+
+![Visualisasi Array Exercise 2](./Picture/image3.png)
+
+4. Cek Saldo
+
+![Visualisasi Array Exercise 2](./Picture/image4.png)
 
 ### Fitur Menu
 
