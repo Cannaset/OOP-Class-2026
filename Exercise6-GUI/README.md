@@ -184,6 +184,6 @@ JFrame (Top-Level Container)
 - **Format angka**: `String.format("%,d", total)` untuk pemisah ribuan.
 
 ## Screenshoot Aplikasi
-![GUI 1](./Picture/imagegui.png)
-![GUI 2](./Picture/imagegui2.png)
-![GUI 3](./Picture/imagegui3.png)
+![GUI 1](../Picture/imagegui.png)
+![GUI 2](../Picture/imagegui2.png)
+![GUI 3](../Picture/imagegui3.png)
